@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "productUrl": "http://product-site/abc",
+      "priceRange": {
+        "startPrice": 1000,
+        "endPrice": 50
+      }
+    },
+    {
+      "productUrl": "http://product-site/def",
+      "priceRange": {
+        "startPrice": 500,
+        "endPrice": 5
+      }
+    },
+    {
+      "productUrl": "http://product-site/ghi",
+      "priceRange": {
+        "startPrice": 100000,
+        "endPrice": 7000
+      }
+    }
+  ]
+}
