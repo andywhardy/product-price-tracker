@@ -14,4 +14,5 @@ public class NotificationService {
                 .currentPrice(currentPrice)
                 .build();
     }
+
 }
